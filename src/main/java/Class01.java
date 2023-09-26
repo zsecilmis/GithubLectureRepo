@@ -4,6 +4,9 @@ public class Class01 {
         //Versiyon 1 Kodlari
         System.out.println("Versiyon1");
 
+        //Versiyon 2 Kodlari
+        System.out.println("Versiyon2");
+
 
 
 
