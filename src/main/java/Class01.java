@@ -10,6 +10,9 @@ public class Class01 {
         //Versiyon 3 Kodlari
         System.out.println("Versiyon3");
 
+        //Versiyon 4
+        System.out.println("Versiyon4");
+
 
 
 
